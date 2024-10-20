@@ -1,12 +1,9 @@
 - 👋 Hi, I’m @Klarenz-oo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning how to code
+- 💞️ I’m looking to collaborate here on github
+- 📫 How to reach me is DM me in Discord username is buttercoconut13 
+- 😄 Pronouns:Renz
+- ⚡ Fun fact: I'm a funny kid lol
 
-<!---
-Klarenz-oo/Klarenz-oo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
